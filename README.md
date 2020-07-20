@@ -6,6 +6,6 @@ Write a script which will
 3. Create a folder for each group.
 4. For each user download his/her "large" image, and put it in an appropriate letter-based folder.
 5. The image file name should include the first and last name, city, and age.
-6. Push your code to GitHub and send me the link pls.
+6. Push your code to GitHub 
 7 (nice to have if you have the time): a progress bar
 8 (nice to have if you have the time): download multiple images simultaneously
